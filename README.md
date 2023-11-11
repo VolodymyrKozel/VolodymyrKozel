@@ -6,7 +6,7 @@
 ### My Homeworks
   | HW | Link |
 |-----:|---------------|
-|     1|[HW-1] (https://volodymyrkozel.github.io/goit-markup-hw-01/)|
+|     1| [HW-1] (https://volodymyrkozel.github.io/goit-markup-hw-01/) |
 |     2|[HW-2] https://volodymyrkozel.github.io/goit-markup-hw-02/|
 |     3|[HW-3] https://volodymyrkozel.github.io/goit-markup-hw-03/|
 |     4|[HW-4]https://volodymyrkozel.github.io/goit-markup-hw-04/|
