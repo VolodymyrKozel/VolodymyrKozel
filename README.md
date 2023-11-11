@@ -1,21 +1,14 @@
 ### Hi there 👋
-- 🔭 I’m currently standing HTML&CSS
-- 
-<details>
-<summary>HTML&CSS</summary>
-### My Homeworks
-[HW-1] (https://volodymyrkozel.github.io/goit-markup-hw-01/) 
-[HW-2] (https://volodymyrkozel.github.io/goit-markup-hw-02/)
-[HW-3] (https://volodymyrkozel.github.io/goit-markup-hw-03/)
-|[HW-4] (https://volodymyrkozel.github.io/goit-markup-hw-04/)
-|[HW-5] (https://volodymyrkozel.github.io/goit-markup-hw-05/)
-|[HW-6] (https://volodymyrkozel.github.io/goit-markup-hw-06/)
-</details>
+- 🔭 I’m currently learning HTML+CSS
 
-<summary>JavaScript</summary>
-### My Homeworks
+### My Homeworks HTML+CSS
++ [HOMEWORK-1](https://volodymyrkozel.github.io/goit-markup-hw-01)
++ [HOMEWORK-2](https://volodymyrkozel.github.io/goit-markup-hw-02)
++ [HOMEWORK-3](https://volodymyrkozel.github.io/goit-markup-hw-03)
++ [HOMEWORK-4](https://volodymyrkozel.github.io/goit-markup-hw-04)
++ [HOMEWORK-5](https://volodymyrkozel.github.io/goit-markup-hw-05)
++ [HOMEWORK-6](https://volodymyrkozel.github.io/goit-markup-hw-06)
 
-</details>
 <!--
 **VolodymyrKozel/VolodymyrKozel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
