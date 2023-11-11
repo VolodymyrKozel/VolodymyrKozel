@@ -2,12 +2,12 @@
 - 🔭 I’m currently learning HTML+CSS
 
 ### My Homeworks HTML+CSS
-+ [HOMEWORK-1](https://volodymyrkozel.github.io/goit-markup-hw-01)
-+ [HOMEWORK-2](https://volodymyrkozel.github.io/goit-markup-hw-02)
-+ [HOMEWORK-3](https://volodymyrkozel.github.io/goit-markup-hw-03)
-+ [HOMEWORK-4](https://volodymyrkozel.github.io/goit-markup-hw-04)
-+ [HOMEWORK-5](https://volodymyrkozel.github.io/goit-markup-hw-05)
-+ [HOMEWORK-6](https://volodymyrkozel.github.io/goit-markup-hw-06)
+1. [HOMEWORK-1](https://volodymyrkozel.github.io/goit-markup-hw-01)
+1. [HOMEWORK-2](https://volodymyrkozel.github.io/goit-markup-hw-02)
+1. [HOMEWORK-3](https://volodymyrkozel.github.io/goit-markup-hw-03)
+1. [HOMEWORK-4](https://volodymyrkozel.github.io/goit-markup-hw-04)
+1. [HOMEWORK-5](https://volodymyrkozel.github.io/goit-markup-hw-05)
+1. [HOMEWORK-6](https://volodymyrkozel.github.io/goit-markup-hw-06)
 
 <!--
 **VolodymyrKozel/VolodymyrKozel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
