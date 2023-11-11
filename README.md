@@ -4,12 +4,14 @@
 <details>
 <summary>HTML&CSS</summary>
 ### My Homeworks
-https://volodymyrkozel.github.io/goit-markup-hw-01/
-https://volodymyrkozel.github.io/goit-markup-hw-02/
-https://volodymyrkozel.github.io/goit-markup-hw-03/
-https://volodymyrkozel.github.io/goit-markup-hw-04/
-https://volodymyrkozel.github.io/goit-markup-hw-05/
-https://volodymyrkozel.github.io/goit-markup-hw-06/
+  | HW | Link |
+|-----:|---------------|
+|     1|[HW-1] https://volodymyrkozel.github.io/goit-markup-hw-01/|
+|     2|[HW-2] https://volodymyrkozel.github.io/goit-markup-hw-02/|
+|     3|[HW-3] https://volodymyrkozel.github.io/goit-markup-hw-03/|
+|     4|[HW-4]https://volodymyrkozel.github.io/goit-markup-hw-04/|
+|     5|[HW-5]https://volodymyrkozel.github.io/goit-markup-hw-05/|
+|     6|[HW-6]https://volodymyrkozel.github.io/goit-markup-hw-06/|
 </details>
 
 <summary>JavaScript</summary>
