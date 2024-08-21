@@ -1,6 +1,7 @@
 # Hi there, I'm Volodymyr! 👋
 Fullstack Developer | JavaScript Enthusiast | Lifelong Learner
-About Me
+
+## About Me
 
 I am a passionate fullstack developer with a strong foundation in both front-end and back-end technologies. I enjoy building interactive and responsive web applications that provide an exceptional user experience. My goal is to continually learn and evolve as a developer, embracing new technologies and challenges along the way.
 
