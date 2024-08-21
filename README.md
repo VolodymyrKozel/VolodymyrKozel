@@ -3,22 +3,27 @@ Fullstack Developer | JavaScript Enthusiast | Lifelong Learner
 About Me
 
 I am a passionate fullstack developer with a strong foundation in both front-end and back-end technologies. I enjoy building interactive and responsive web applications that provide an exceptional user experience. My goal is to continually learn and evolve as a developer, embracing new technologies and challenges along the way.
-##🛠️ Technologies & Tools
-    ###Front-end:
-        HTML5
-        CSS3 (SASS, SCSS)
-        JavaScript (ES6+)
-        React.js
-        Redux
-        TypeScript
-    ###Back-end:
-        Node.js
-        Express.js
-    ###Other:
-        Git & GitHub
-        RESTful APIs
-        Responsive Web Design
-        NPM & Yarn
+
+## 🛠️ Technologies & Tools
+
+### Front-end:
+- HTML5
+- CSS3 (SASS, SCSS)
+- JavaScript (ES6+)
+- React.js
+- Redux
+- TypeScript
+
+### Back-end:
+- Node.js
+- Express.js
+
+### Other:
+- Git & GitHub
+- RESTful APIs
+- Responsive Web Design
+- NPM & Yarn
+
         
 🧑‍💻 My Projects
 
