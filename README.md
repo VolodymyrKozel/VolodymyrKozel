@@ -3,29 +3,25 @@ Fullstack Developer | JavaScript Enthusiast | Lifelong Learner
 About Me
 
 I am a passionate fullstack developer with a strong foundation in both front-end and back-end technologies. I enjoy building interactive and responsive web applications that provide an exceptional user experience. My goal is to continually learn and evolve as a developer, embracing new technologies and challenges along the way.
-🛠️ Technologies & Tools
-
-    Front-end:
+##🛠️ Technologies & Tools
+    ###Front-end:
         HTML5
         CSS3 (SASS, SCSS)
         JavaScript (ES6+)
         React.js
         Redux
         TypeScript
-
-    Back-end:
+    ###Back-end:
         Node.js
         Express.js
-
-    Other:
+    ###Other:
         Git & GitHub
         RESTful APIs
         Responsive Web Design
         NPM & Yarn
-
+        
 🧑‍💻 My Projects
 
-Here's the updated description with both projects:
 📚 Bookshelf App
 
 The Bookshelf App is a simple and intuitive web application where you can search for and explore a wide variety of books. Built using HTML, CSS, and JavaScript, and powered by Vite, this app provides a seamless user experience for book lovers. Whether you're looking for a classic novel or the latest bestseller, the Bookshelf App makes it easy to find and enjoy your next read.
